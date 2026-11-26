@@ -39,6 +39,26 @@ It allows patients to record their symptoms, provide severity levels, and mainta
 - Symptom description cannot be empty.
 - Severity must be between 1 and 10.
 
+## How the complete project works
+- User / Frontend
+
+- Enters symptom and severity
+
+- main.py – API endpoint
+
+- schemas.py – Validation
+
+- Checks description and severity
+
+- crud.py – Database operations
+
+- database.py – SQLite database
+
+
+- test_api.py – Automatically tests the API
+
+- Checks that the required behavior works correctly
+
 ## Installation and Setup
 
 ### 1. Clone the repository
