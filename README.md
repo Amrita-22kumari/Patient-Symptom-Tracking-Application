@@ -59,8 +59,8 @@ It allows patients to record their symptoms, provide severity levels, and mainta
 
 - Checks that the required behavior works correctly
 
-## . Difference between your project files
-- File	                               - Purpose
+## . Difference between my project files
+- File	                               -     Purpose
 - schemas                            -  .py	Validates input data
 - main                               -  .py	Creates API endpoints
 - crud                                - .py	Saves and retrieves data
